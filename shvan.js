@@ -169,8 +169,8 @@ client.on("message", async msg => {
     dinfo = {
     
       owner: config.kahrbaaid,
-      serverid: "NONE",
-      channelid: "NONE", 
+      serverid: "902152766846275624",
+      channelid: "902152767718707217", 
       timespam: "NONE",
       timestop: "NONE"
     };
@@ -7387,8 +7387,8 @@ message.member.voiceChannel
 
 //تۆكینه‌كان لێره‌ جا بنێ
 
-client.login("ODM1Njg5MjUwODI5NjMxNDg5.YIeupQ.godag4QNNo2hd4btc1i-102XPp4");
-client2.login("");
+client.login("");
+client2.login("NzI1NzI5MjQyNjI4NzUxNDYw.YYelDg.tLZYOmGHSWUuNxAUti2WFRBmEiI");
 client3.login("");
 client4.login("");
 client5.login("");
